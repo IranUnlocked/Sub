@@ -13,3 +13,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8
 bGxvd0luc2VjdXJlPTAmc25pPXJhdGF0b3VpbGxlLmFkYXNwb2xvYW5kY28uY29tI3YycmF5X2RhbGdoYWs=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%40IranUnlocked%20%C2%B9%C2%B2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40IranUnlocked%20%C2%B9%C2%B3
+vless://InternetAzadRobot@199.232.57.91:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%22100000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%C2%B9%E2%81%B4
