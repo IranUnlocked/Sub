@@ -62,3 +62,4 @@ vless://7673f4bd-cf73-4e62-9f8b-2a0338924fe5@45.130.125.76:2096?mode=gun&securit
 
 
 vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=%3Fed&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#%40IranUnlocked%20%F0%9F%A4%96
+vless://a7c2cb78-7606-4b75-af6b-2be486942e3b@2tb1dh0wopmv5nz.awi392.store:19649?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=dxAz6gKLT_ohXgTko2mxmSH7VePtylR75M8OJbqMWD4&host=ie-2srv.dnschecker.cc&fp=random&spx=%2F&type=xhttp&sni=ea.com&sid=4320a9f9ecff2b8a#%40IranUnlocked%20%F0%9F%A4%96%F0%9F%A4%96
