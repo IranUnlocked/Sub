@@ -63,3 +63,25 @@ vless://7673f4bd-cf73-4e62-9f8b-2a0338924fe5@45.130.125.76:2096?mode=gun&securit
 
 vless://e7344606-2a4b-4375-975a-0eac96192b16@solar.appleseraj.ir:2083?path=%3Fed&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#%40IranUnlocked%20%F0%9F%A4%96
 vless://a7c2cb78-7606-4b75-af6b-2be486942e3b@2tb1dh0wopmv5nz.awi392.store:19649?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=dxAz6gKLT_ohXgTko2mxmSH7VePtylR75M8OJbqMWD4&host=ie-2srv.dnschecker.cc&fp=random&spx=%2F&type=xhttp&sni=ea.com&sid=4320a9f9ecff2b8a#%40IranUnlocked%20%F0%9F%A4%96%F0%9F%A4%96
+
+
+vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A9%B6
+vless://TIGNAL-CRYPTO@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot44xd894.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A9%B5
+vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%92%99
+vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot44xd894.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A9%B7
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%92%9A
+vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%92%9B
+vless://TIGNAL-CRYPTO@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A7%A1
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%E2%9A%AA
+vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%E2%9A%AB
+vless://TIGNAL-CRYPTO@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%9F%A4
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot44xd894.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%9F%A3
+vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot44xd894.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%94%B5
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%9F%A2
+vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%9F%A1
+vless://TIGNAL-CRYPTO@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%9F%A0
+vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%94%B4
+vless://TIGNAL-CRYPTO@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A4%8E
+vless://TIGNAL-CRYPTO@151.101.129.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%92%9C
+vless://TIGNAL-CRYPTO@fastly.com:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%A4%8D
+vless://TIGNAL-CRYPTO@151.101.67.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40IranUnlocked%20%F0%9F%96%A4
