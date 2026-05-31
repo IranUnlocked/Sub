@@ -1,3 +1,12 @@
+#profile-title: IranUnlocked
+#profile-update-interval: 1
+#support-url: https://t.me/IranUnlocked
+#profile-web-page-url: https://github.com/IranUnlocked
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+
+
+
 vless://6a719f2b-b629-462d-975a-9c0daa3edb75@208.103.161.7:2083?path=%2FQDHqawq0xGrFP7Pa%2FMTU4LjE4MC4xMi4xMTc%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=raviddd.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=rAviDdD.paGEs.DEv#%40IranUnlocked%20%20%C2%B9
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@208.103.161.4:443?path=%2Fplay%2Fsettings&security=tls&encryption=none&insecure=0&host=pagescm.freen32.cc.cd&type=ws&allowInsecure=0&sni=pagescm.freen32.cc.cd#%40IranUnlocked%20%20%C2%B2
 vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@185.143.233.235:8880?path=%2F&security=none&encryption=none&host=a.darafiq.ir&type=ws#%40IranUnlocked%20%20%C2%B3
