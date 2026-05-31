@@ -96,3 +96,12 @@ vless://12ca9c46-3c58-49e2-b248-bc079b40d068@104.17.121.71:2083?mode=auto&path=%
 vless://12ca9c46-3c58-49e2-b248-bc079b40d068@104.17.121.71:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Kyuu.sodogodping.ir&type=xhttp&allowInsecure=0&sni=Kyuu.sodogodping.ir#%F0%9F%87%BA%F0%9F%87%B8%20%F0%9D%90%94%F0%9D%90%92%20%F0%93%8F%BA%20%F0%9D%90%97%F0%9D%90%87%F0%9D%90%93%F0%9D%90%93%F0%9D%90%8F%C2%B2
 vless://12ca9c46-3c58-49e2-b248-bc079b40d068@104.17.121.71:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Itw.sodogodping.ir&type=xhttp&allowInsecure=0&sni=Itw.sodogodping.ir#%F0%9F%87%AE%F0%9F%87%B9%20%F0%9D%90%88%F0%9D%90%93%20%F0%93%8F%BA%20%F0%9D%90%97%F0%9D%90%87%F0%9D%90%93%F0%9D%90%93%F0%9D%90%8F%C2%B2
 
+
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.40:8880?path=%2F&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#%40IranUnlocked%20%E2%9A%95%EF%B8%8F
+vless://64dc190d-25cc-46f9-b0f5-73dffe066337@199.232.236.87:443?path=%2Fwp-admin.php%3Fed&security=tls&encryption=none&insecure=1&host=api.nhl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#%40IranUnlocked%20%F0%9F%AB%A5
+vless://70956ee4-e812-4417-9094-5bd568af4903@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sabko.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=sabko.tll-far.ir#%40IranUnlocked%20%F0%9F%A5%B3
+vless://Tel%3AArshiacomplus@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&fp=chrome&type=xhttp&allowInsecure=1&sni=yahoo.com#%40IranUnlocked%20%F0%9F%98%AC
+vless://a4da3bac-6b9c-437e-b286-5b137ccbdc2a@199.232.236.87:443?path=%2Fwp-admin.php%3Fed&security=tls&encryption=none&insecure=1&host=neszjzfeshab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#%40IranUnlocked%20%F0%9F%A4%AA
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%40IranUnlocked%20%F0%9F%98%B1
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%40IranUnlocked%20%F0%9F%A5%B9
