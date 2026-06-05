@@ -150,3 +150,5 @@ vless://a666c94a-45d6-4d2f-aed5-9127e614f106@104.17.108.213:2095?encryption=none
 vless://1809e936-37b2-446c-a571-0993b4c3391d@104.17.121.71:2095?encryption=none&security=none&type=ws&host=GlAmOrOuS-bEGinNiNGD9IldkYV6f.SEOtooLsfOryou.co.Uk.&path=%2F%3Fed%3D2048#serveR
 vless://9d094b90-3773-4775-9d37-512fa647fa0f@104.17.108.213:2096?encryption=none&security=tls&type=grpc&sni=GlamorOUs-BeGINningd9ilDKYV6F.seOTOOlsfORyou.Co.uk&serviceName=irna.ir.en.mehrnews.com.tabnak.ir.fararu.com.alalamtv.net.donya-e-eqtesad.com.isna.ir#serveR
 vless://2be7619a-db2d-4cb8-849a-49a84e42bb67@45.130.125.76:2095?encryption=none&security=none&type=ws&host=GlAmOrOuS-bEGinNiNGD9IldkYV6f.SEOtooLsfOryou.co.Uk.&path=%2F%3Fed%3D2048#serveR
+
+trojan://lXn0PfJrTS@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#%40IranUnlocked%20%F0%9F%87%A9%F0%9F%87%AA
