@@ -133,3 +133,16 @@ vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=%2F%40Javid
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@141.193.213.21:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#%40IranUnlocked%20%F0%9F%98%88
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%40IranUnlocked%20%F0%9F%98%88
 
+
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@qzvxwplyrntckjfmbhgd.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@wsxedcrfvtbgyhnnujmi.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tgbvyhnnujmiiklqweas.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@cxzvbnmqwerklpoiujyh.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@hjfsdklpqwzzxcvbnmry.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@tyzrxwqpnlmmkcjbhfgd.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@mkwqlzpxrntcvbyjhdfs.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@vbcxnzmlkpqwtrzyyfsj.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@pqxrztwyvlmnkcjbhfgd.sd.noafra.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40IranUnlocked%20%F0%9F%AA%BC
+
+
