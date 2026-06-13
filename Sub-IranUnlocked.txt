@@ -241,3 +241,6 @@ vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?pcs=cd6e838b9bfe
 vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#%40IranUnlocked%20%E2%9A%A1%C2%B2
 
 
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#%40IranUnlocked%20%E2%99%BE%EF%B8%8F
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2Fvip1&security=tls&alpn=h2&encryption=none&insecure=0&host=hamshahriesfahan.com&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#%40IranUnlocked%20%E2%99%BE%EF%B8%8F%C2%B2
+
