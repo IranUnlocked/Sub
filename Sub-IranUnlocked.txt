@@ -59,3 +59,4 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.26:443?security=reality&en
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%40IranUnlocked%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%40IranUnlocked%20%F0%9F%87%B9%F0%9F%87%B7%C2%B2
+vless://ZoRoVpN@203.202.232.11:36068?path=%2FZoRoVpn&security=none&encryption=none&host=Play.google.com&type=ws#%40IranUnlocked%20%F0%9F%87%A9%F0%9F%87%AA%E2%81%B6
