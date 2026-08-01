@@ -72,3 +72,5 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp
 trojan://MiTiVPN@104.18.6.178:2087?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fnl&security=tls&alpn=http%2F1.1&insecure=1&host=op-mitivpn--MiTiVPN---MiTiVPN-o.kingnetwork.ir&fp=chrome&type=ws&allowInsecure=1&sni=g-o-MiTiVPN---MiTiVPNj.kingnetwork.ir#%40IranUnlocked%20%E2%81%B6%E2%81%B4
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-020.orbitqgr7v.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-020.orbitqgr7v.info#%40IranUnlocked%20%E2%81%B6%E2%81%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40IranUnlocked%20%E2%81%B6%E2%81%B6
+
+vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?mode=auto&path=%2F&security=reality&encryption=none&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=81053c0bc6adc9#%40IranUnlocked%20%E2%81%B6%E2%81%B7
